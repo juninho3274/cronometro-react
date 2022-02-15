@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.279621ca.css",
+    "main.js": "./static/js/main.16cddb8f.js",
+    "static/js/787.a618c441.chunk.js": "./static/js/787.a618c441.chunk.js",
+    "static/media/cronometro.png": "./static/media/cronometro.910ec1f0ccef27233284.png",
+    "index.html": "./index.html",
+    "main.279621ca.css.map": "./static/css/main.279621ca.css.map",
+    "main.16cddb8f.js.map": "./static/js/main.16cddb8f.js.map",
+    "787.a618c441.chunk.js.map": "./static/js/787.a618c441.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.279621ca.css",
+    "static/js/main.16cddb8f.js"
+  ]
+}
